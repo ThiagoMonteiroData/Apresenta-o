@@ -11,7 +11,7 @@ Analista e Desenvolvedor de Sistemas recém-graduado pela Faculdade Senac Pernam
 - **Linguagens:** Java, Python, PHP
 - **Web:** WordPress, HTML5, CSS3, JavaScript
 - **Banco de Dados:** MySQL
-- **Ferramentas:** Git, GitHub, Cisco Networking Academy
+- **Ferramentas:** Git, GitHub
 
 ### 📊 Meus Projetos em Destaque
 - **Plataforma Instituto Sinal:** Sistema web completo com formulários de login, portal de voluntários e sistema de notificações automáticas via e-mail.
