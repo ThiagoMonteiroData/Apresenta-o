@@ -19,3 +19,4 @@ Analista e Desenvolvedor de Sistemas recém-graduado pela Faculdade Senac Pernam
 ### 📫 Como me encontrar
 - **LinkedIn:** https://www.linkedin.com/in/thiago-monteiro-67b3b42b8/
 - **E-mail:** thiagomot.2003@gmail.com
+.
